@@ -1,29 +1,46 @@
-# Welcome to your Lovable project
+# PureSip Website
 
-This project was built with [Lovable](https://lovable.dev).
+A modern, responsive beverage website developed as part of the Inquisitors Society Internship.
 
-## Build with Lovable
+## 🌐 Live Demo
+https://pure-sip-web-glow.lovable.app
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## 📌 Project Overview
+PureSip is a modern beverage website designed with a clean user interface and responsive layout to provide a smooth user experience across desktop and mobile devices.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## ✨ Features
+- Responsive Design
+- Modern UI/UX
+- Fast Performance
+- Clean Layout
+- Mobile Friendly
 
-## Development
+## 🛠️ Technologies Used
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## 🚀 How to Run Locally
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+```bash
+npm install
 npm run dev
 ```
 
-## Built with
+## 📁 Project Structure
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+```
+src/        Source code
+public/     Static assets
+```
+
+## 👩‍💻 Developer
+
+**Noor ul Huda**
+
+Business Data Analytics Student  
+University of Engineering and Technology (UET), Lahore
+
+---
+Developed during the **Inquisitors Society Internship 2026**.
