@@ -1,19 +1,37 @@
-# Inquistors_intern_217
-My name is Noor ul Huda. I am from UET Lahore doing Data Analytics
-# PureSip Website
-A modern and responsive beverage website developed using Lovable AI.
+# Inquisitors Society Internship
 
-## 🌐 Live Demo
+This repository contains my work completed during the **Inquisitors Society Internship 2026**.
+
+## 👩‍💻 About Me
+**Noor ul Huda**  
+Business Data Analytics Student  
+University of Engineering and Technology (UET), Lahore
+## 📂 Repository Contents
+
+### 🌐 PureSip Website
+A modern and responsive beverage website developed using React, TypeScript, Tailwind CSS, and Vite.
+
+**Live Demo:**  
 https://pure-sip-web-glow.lovable.app
 
-## ✨ Features
-- Responsive Design
-- Modern User Interface
-- Fast Performance
-- User-Friendly Navigation
+**Source Code:**  
+`puresip-website/`
 
-## 🛠️ Technologies Used
-- Lovable AI
+### 📜 Certificates
+The **Certificates** folder contains my internship certificates in PDF format.
+
+## 🛠️ Skills & Technologies
 - React
 - TypeScript
+- Tailwind CSS
 - Vite
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+## 📬 Contact
+**GitHub:** https://github.com/MsNoorulHuda
+
+---
+
+⭐ Thank you for visiting this repository.
