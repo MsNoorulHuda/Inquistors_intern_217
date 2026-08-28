@@ -33,14 +33,44 @@ Python · FastAPI · RAG · LLM · Retrieval · JSON · HTML/CSS/JavaScript
 The **Certificates** folder contains my internship certificates in PDF format.
 
 ## 🛠️ Skills & Technologies
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+💻 Programming & Development
+Python
+C#
+JavaScript
+TypeScript
+HTML5
+CSS3
+
+🌐 Web Development
+React
+Tailwind CSS
+Vite
+FastAPI
+Responsive Web Design
+
+🤖 Artificial Intelligence
+Retrieval-Augmented Generation (RAG)
+Large Language Models (LLMs)
+AI Chatbot Development
+Knowledge Base & Information Retrieval
+Prompt Engineering
+
+📊 Data & Backend
+Pandas
+JSON
+REST APIs
+Data Processing & Validation
+
+🧰 Tools & Platforms
+Git
+GitHub
+Visual Studio Code
+Docker
+
+📂 Projects
+PureSip Website — React, TypeScript, Tailwind CSS, Vite
+MAA Intelligent Chatbot — Python, FastAPI, RAG, LLM, Knowledge Base
+
 ## 📬 Contact
 **GitHub:** https://github.com/MsNoorulHuda
 
