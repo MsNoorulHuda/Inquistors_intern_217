@@ -31,6 +31,17 @@ The **Certificates** folder contains my internship certificates in PDF format.
 - Git & GitHub
 ## 📬 Contact
 **GitHub:** https://github.com/MsNoorulHuda
+🤖 MAA Intelligent Chatbot
+An AI-powered conversational assistant developed for the MAA Digital Companion Platform, designed to provide helpful and context-aware support across areas such as Home Made Food, Medicine & Health, Travel Assistance, and general conversations.
+
+
+The chatbot uses a Retrieval-Augmented Generation (RAG) approach, combining a structured knowledge base with AI-generated responses to provide relevant information while reducing unsupported answers.
+
+Project Folder:
+maa-chatbot/
+Technologies:
+Python · FastAPI · RAG · LLM · Retrieval · JSON · HTML/CSS/JavaScript
+
 
 ---
 
