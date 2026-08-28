@@ -1,0 +1,30 @@
+[
+  {
+    "id": "design-identity",
+    "title": "Why MAA feels warm and caring",
+    "answer": "MAA uses a soft, friendly visual design with light backgrounds, pink accents, rounded cards and simple navigation. Combined with the caring tone of Talk to MAA and the Loved by Many testimonials section, this is meant to make the platform feel like a caring presence rather than a plain utility app.",
+    "keywords": ["design", "why maa feels caring", "identity", "branding", "tone", "visual design"],
+    "source": "design.txt"
+  },
+  {
+    "id": "practical-benefits",
+    "title": "Practical benefits of using MAA",
+    "answer": "MAA offers convenient access to food, medicine and travel from a single platform, a simple and user friendly interface, home made food discovery, medicine ordering and reminders, travel planning with emergency assistance, and quick access to emergency contact numbers, saving users from using multiple separate apps.",
+    "keywords": ["practical benefits", "convenience", "why use maa", "benefits of maa"],
+    "source": "design.txt"
+  },
+  {
+    "id": "emotional-benefits",
+    "title": "Emotional and psychological benefits of MAA",
+    "answer": "MAA aims to reduce loneliness through the AI Companion, create a sense of being cared for through its caring tone, offer comfort and nostalgia through home made food, give peace of mind through medicine reminders and health tips, build confidence while traveling through emergency support, and create a sense of belonging through testimonials.",
+    "keywords": ["emotional benefits", "psychological benefits", "why maa feels supportive", "wellbeing benefits"],
+    "source": "design.txt"
+  },
+  {
+    "id": "testimonials-social-proof",
+    "title": "Testimonials on MAA",
+    "answer": "The Loved by Many section on the MAA home page shows user testimonials, reinforcing that other users already feel emotionally connected to MAA and encouraging new users to expect the same experience.",
+    "keywords": ["testimonials", "loved by many", "reviews", "social proof"],
+    "source": "design.txt"
+  }
+]

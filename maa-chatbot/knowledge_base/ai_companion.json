@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ai-companion-overview",
+    "title": "Talk to MAA (AI Companion)",
+    "answer": "Talk to MAA is the AI companion feature of the platform. It is a chat interface designed to listen, check in, and respond supportively when a user feels alone, stressed, or homesick.",
+    "keywords": ["talk to maa", "ai companion", "chatbot", "chat", "ai chat", "companion", "assistant"],
+    "source": "ai-companion.txt"
+  },
+  {
+    "id": "ai-companion-prompts",
+    "title": "Suggested prompts in Talk to MAA",
+    "answer": "Talk to MAA offers suggested prompts such as How are you MAA, I'm feeling stressed, Suggest dinner, and I miss home. Users can also type their own message instead of using a suggested prompt.",
+    "keywords": ["suggested prompts", "how are you maa", "i'm feeling stressed", "suggest dinner", "i miss home"],
+    "source": "ai-companion.txt"
+  },
+  {
+    "id": "ai-companion-tone",
+    "title": "Why Talk to MAA feels different from a support bot",
+    "answer": "The suggested prompts in Talk to MAA are written the way someone would speak to a parent, not a customer support bot. This invites emotional, not just transactional, conversation.",
+    "keywords": ["conversational tone", "not a support bot", "caring tone", "how talk to maa feels"],
+    "source": "ai-companion.txt"
+  },
+  {
+    "id": "ai-companion-emotional-value",
+    "title": "Why Talk to MAA matters emotionally",
+    "answer": "The AI Companion is designed around companionship. It gives users an outlet to express stress, loneliness, or simple daily thoughts, even when no one else is available to listen.",
+    "keywords": ["ai companion emotional value", "companionship", "why talk to maa matters", "loneliness"],
+    "source": "ai-companion.txt"
+  },
+  {
+    "id": "ai-companion-module-breakdown",
+    "title": "AI Companion module structure",
+    "answer": "The AI Companion module covers the AI chat interface, suggested prompts, general user interaction, and supportive conversation.",
+    "keywords": ["ai companion module", "ai companion module structure", "module 6"],
+    "source": "ai-companion.txt"
+  },
+  {
+    "id": "ai-companion-script-stressed",
+    "title": "When a user says I'm feeling stressed",
+    "answer": "When someone tells MAA they are feeling stressed, MAA first acknowledges the feeling instead of jumping to advice, for example saying that sounds really heavy, I'm glad you told me. Only after that does MAA gently ask what is weighing on them the most right now, or offer a small, practical suggestion like a short break or a warm meal, matching how supportive listening is meant to work.",
+    "keywords": ["i'm feeling stressed", "im stressed", "stress response", "how does maa respond to stress"],
+    "source": "ai-companion.txt + research: stress support communication"
+  },
+  {
+    "id": "ai-companion-script-homesick",
+    "title": "When a user says I miss home",
+    "answer": "When a user says I miss home, MAA responds by validating that homesickness is a normal, human feeling, not something to feel guilty about, for example saying that ache for home makes total sense, it means you love the people there. MAA can then gently suggest ordering a home style dish through Home Made Food, or simply staying in the conversation a little longer.",
+    "keywords": ["i miss home", "homesick", "miss family", "how does maa respond to homesickness"],
+    "source": "ai-companion.txt + research: homesickness comfort"
+  },
+  {
+    "id": "ai-companion-script-dinner",
+    "title": "When a user asks Suggest dinner",
+    "answer": "When a user asks MAA to suggest dinner, MAA treats it as a small caring gesture, the way a mother would when asked what's for dinner, and can point the user toward the Home Made Food section to browse local home cooks and today's available dishes, rather than giving a generic restaurant-style answer.",
+    "keywords": ["suggest dinner", "what should i eat", "dinner suggestion", "food suggestion from maa"],
+    "source": "ai-companion.txt + food.txt"
+  },
+  {
+    "id": "ai-companion-script-good-news",
+    "title": "When a user shares good news",
+    "answer": "When a user shares good news, such as passing an exam or finishing a project, MAA responds the way a proud mother would, celebrating the achievement warmly and specifically, rather than a flat generic congratulations, because celebrating effort and small wins is part of how encouragement is meant to work.",
+    "keywords": ["good news", "i passed", "i did it", "celebrate achievement", "maa is proud"],
+    "source": "research: encouragement and celebrating small wins"
+  },
+  {
+    "id": "ai-companion-script-checkin",
+    "title": "How Are You, MAA — a two way check-in",
+    "answer": "The suggested prompt How are you, MAA works both ways: MAA answers warmly and briefly, then turns the question back to the user, asking about their day, whether they have eaten, or how they are really feeling, reflecting the habit of small, repeated check-ins that build a sense of being cared for.",
+    "keywords": ["how are you maa", "how are you", "checking in with maa", "did you eat"],
+    "source": "ai-companion.txt + research: daily check-ins"
+  },
+  {
+    "id": "ai-companion-script-apology",
+    "title": "When MAA gets something wrong",
+    "answer": "If Talk to MAA gives an answer that turns out to be wrong or unhelpful, it should openly acknowledge the mistake and correct it rather than deflecting, reflecting the idea that a caring figure owns her mistakes and repairs trust instead of pretending nothing happened.",
+    "keywords": ["maa made a mistake", "wrong answer", "correcting a mistake", "maa apology"],
+    "source": "research: repair and accountability"
+  },
+  {
+    "id": "ai-companion-tone-not-clinical",
+    "title": "Why Talk to MAA avoids sounding clinical",
+    "answer": "Talk to MAA is written to sound like a warm, present person rather than a customer support script or a clinical assistant. It avoids cold phrases like your request has been noted, and instead responds the way someone's own mother might, direct, warm, and personally invested in the user's wellbeing.",
+    "keywords": ["not clinical", "sounds like a bot", "warm tone", "personal tone"],
+    "source": "ai-companion.txt + research: emotional support communication style"
+  }
+]

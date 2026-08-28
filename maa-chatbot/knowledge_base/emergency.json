@@ -1,0 +1,23 @@
+[
+  {
+    "id": "emergency-contacts",
+    "title": "Emergency contact numbers",
+    "answer": "MAA displays emergency contact numbers inside Travel Assistance: Police 100, Ambulance 108, Women Helpline 1091, and Tourist Helpline 1363. These help users quickly reach assistance in an emergency.",
+    "keywords": ["emergency", "emergency number", "police", "ambulance", "women helpline", "tourist helpline", "helpline"],
+    "source": "emergency.txt"
+  },
+  {
+    "id": "emergency-role",
+    "title": "Why MAA offers emergency support",
+    "answer": "By offering emergency travel support and visible emergency contact numbers, MAA sends the message that it is there for users not only for everyday convenience, but also in their most vulnerable moments.",
+    "keywords": ["why emergency support", "emergency purpose", "vulnerable moments"],
+    "source": "emergency.txt"
+  },
+  {
+    "id": "emergency-where-shown",
+    "title": "Where to find emergency contacts",
+    "answer": "Emergency contact numbers are shown inside the Travel Assistance section of MAA, alongside the Emergency Travel Support options like Book Emergency Travel and Talk to MAA Now.",
+    "keywords": ["where are emergency contacts", "find emergency numbers", "emergency section location"],
+    "source": "emergency.txt"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "contact-support",
+    "title": "Contact and support",
+    "answer": "The website footer shows an email and phone contact for MAA under the Contact section, along with About Us, Privacy Policy and Terms of Service links.",
+    "keywords": ["contact", "support", "email", "phone", "help", "customer support"],
+    "source": "support.txt"
+  },
+  {
+    "id": "report-problem",
+    "title": "How to report a problem",
+    "answer": "To report a problem with MAA, describe what happened, where it happened, and what you expected instead. Include a screenshot or reference if you have one, then send it through the support contact shown in the website footer.",
+    "keywords": ["report a problem", "issue", "bug", "complaint", "error", "problem"],
+    "source": "support.txt"
+  },
+  {
+    "id": "user-flow",
+    "title": "Typical user journey on MAA",
+    "answer": "A typical journey is: open the MAA website, create an account or log in, reach the main platform, choose a service such as Food, Medicine, Travel or Talk to MAA, use that service, and return to the home page to try another one. Emergency support is available whenever it is needed.",
+    "keywords": ["user flow", "user journey", "how does maa work", "steps", "how to use maa"],
+    "source": "support.txt"
+  },
+  {
+    "id": "kb-overview",
+    "title": "What MAA can help you with",
+    "answer": "I can help with: what MAA is and its purpose, Home Made Food (cooks, menus, filters), Medicine and Health (ordering, reminders, health tips), Travel Assistance (trip planning, popular destinations, emergency travel), emergency contact numbers, registration and login, finding your way around the site, contacting support or reporting a problem, and Talk to MAA. I'm also happy to just talk with you about your day, feelings, or anything on your mind, the way a caring mother would.",
+    "keywords": [
+      "what do you know", "what information do you have", "what can you help with",
+      "your knowledge base", "what topics", "what can you do", "what do you cover",
+      "what services do you know about", "list everything you know"
+    ],
+    "source": "help-menu.txt"
+  }
+]

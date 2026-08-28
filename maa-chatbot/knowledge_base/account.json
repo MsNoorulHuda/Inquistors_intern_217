@@ -1,0 +1,37 @@
+[
+  {
+    "id": "registration",
+    "title": "How to create a MAA account",
+    "answer": "New users can register using their name, email, phone number, password and confirm password. Registration also requires agreeing to the Terms of Service and Privacy Policy. Use the Get Started button on the home page to begin.",
+    "keywords": ["register", "registration", "create account", "sign up", "get started", "account banao"],
+    "source": "account.txt"
+  },
+  {
+    "id": "login",
+    "title": "How to log in to MAA",
+    "answer": "Existing users can log in from the Login option in the main navigation using their registered email or phone number and password.",
+    "keywords": ["login", "log in", "sign in", "existing user"],
+    "source": "account.txt"
+  },
+  {
+    "id": "authentication-module",
+    "title": "Authentication module structure",
+    "answer": "The Authentication module of MAA covers registration, login, and account creation, and is the first step before a user can access Food, Medicine, Travel, or Talk to MAA.",
+    "keywords": ["authentication module", "module 1", "account module"],
+    "source": "account.txt"
+  },
+  {
+    "id": "terms-privacy",
+    "title": "Terms of Service and Privacy Policy",
+    "answer": "When registering, users must agree to MAA's Terms of Service and Privacy Policy. Links to both are also available in the Company section of the website footer.",
+    "keywords": ["terms of service", "privacy policy", "agreement", "legal terms"],
+    "source": "account.txt"
+  },
+  {
+    "id": "membership-note",
+    "title": "Is there a paid membership on MAA?",
+    "answer": "The current MAA description does not define a separate paid membership plan. Access to Food, Medicine, Travel and Talk to MAA is available once a user creates a free account and logs in.",
+    "keywords": ["membership", "subscription", "plan", "paid", "premium", "fee", "is maa free"],
+    "source": "account.txt"
+  }
+]

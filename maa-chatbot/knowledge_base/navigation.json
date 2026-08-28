@@ -1,0 +1,30 @@
+[
+  {
+    "id": "navigation",
+    "title": "MAA website navigation",
+    "answer": "The main navigation includes Home, Food, Medicine, Travel, Talk to MAA, Login and Get Started. Food leads to Home Made Food, Medicine leads to Medicine and Health, and Travel leads to Plan Trip, Travel Tips and Emergency.",
+    "keywords": ["navigation", "menu", "where can i find", "how to navigate", "site map", "main menu"],
+    "source": "navigation.txt"
+  },
+  {
+    "id": "home-page",
+    "title": "The MAA home page",
+    "answer": "The home page introduces the MAA platform and provides navigation to its main services. It also contains user testimonials under the Loved by Many section.",
+    "keywords": ["home page", "homepage", "landing page", "loved by many"],
+    "source": "navigation.txt"
+  },
+  {
+    "id": "footer-services",
+    "title": "Services listed in the website footer",
+    "answer": "The Services section of the MAA footer lists Home Made Food, Medicine and Health, Travel Assistance, and AI Companion.",
+    "keywords": ["footer services", "footer links", "services footer"],
+    "source": "navigation.txt"
+  },
+  {
+    "id": "footer-company",
+    "title": "Company section in the website footer",
+    "answer": "The Company section of the MAA footer includes About Us, Contact, Privacy Policy, and Terms of Service links.",
+    "keywords": ["footer company", "about us link", "footer contact"],
+    "source": "navigation.txt"
+  }
+]

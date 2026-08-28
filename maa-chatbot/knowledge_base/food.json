@@ -1,0 +1,65 @@
+[
+  {
+    "id": "food-overview",
+    "title": "Home Made Food service",
+    "answer": "The Home Made Food section lets users discover food cooked by local home cooks. Users can search for cooks, cuisines or dishes and browse what is available near them.",
+    "keywords": ["food", "home made food", "home cooked", "cook", "cooks", "khana"],
+    "source": "food.txt"
+  },
+  {
+    "id": "food-search-filters",
+    "title": "Searching and filtering food",
+    "answer": "In the Home Made Food section, users can search for cooks, cuisines, or dishes, and apply filters to narrow down the results before choosing what to order.",
+    "keywords": ["food search", "food filters", "find a cook", "search dishes", "cuisine filter"],
+    "source": "food.txt"
+  },
+  {
+    "id": "food-listing-info",
+    "title": "What food listings show",
+    "answer": "Each home cook listing displays information such as ratings, reviews, preparation time, location, cuisine type, food categories, and popular dishes, along with the cook's menu.",
+    "keywords": ["food ratings", "preparation time", "menu", "food categories", "popular dishes", "food listing"],
+    "source": "food.txt"
+  },
+  {
+    "id": "food-example-cooks",
+    "title": "Example home cooks on MAA",
+    "answer": "Example home cooks shown in the MAA interface include Aiza Aunty, Adeel Bhai, and Mubeen Didi. These are demo examples of the kind of local home cooks featured on the platform.",
+    "keywords": ["aiza aunty", "adeel bhai", "mubeen didi", "example cooks", "who are the cooks"],
+    "source": "food.txt"
+  },
+  {
+    "id": "food-emotional-value",
+    "title": "Why Home Made Food matters emotionally",
+    "answer": "Home Made Food is designed to trigger nostalgia and comfort. It reminds users of home cooked meals, which is especially useful for students and people living away from their families.",
+    "keywords": ["food nostalgia", "comfort food", "why food matters", "home cooked meals meaning"],
+    "source": "food.txt"
+  },
+  {
+    "id": "food-module-breakdown",
+    "title": "Home Made Food module structure",
+    "answer": "The Home Made Food module covers cook listing, search, filters, ratings, menus, and general food discovery for users browsing the platform.",
+    "keywords": ["food module", "food module structure", "module 3"],
+    "source": "food.txt"
+  },
+  {
+    "id": "food-example-dish-types",
+    "title": "The kind of home cooked dishes featured",
+    "answer": "Home Made Food is meant to feature everyday South Asian home cooking, comfort dishes like daal, karahi, biryani or pulao, kebabs, and roti or naan, the kind of meals someone would normally get at home rather than at a restaurant, prepared with simpler, homely ingredients.",
+    "keywords": ["what kind of food", "daal", "karahi", "biryani", "pulao", "roti", "home cooking style"],
+    "source": "food.txt + research: South Asian home cooking"
+  },
+  {
+    "id": "food-checking-in-culture",
+    "title": "Why MAA asks if you have eaten",
+    "answer": "In many South Asian households, asking whether someone has eaten is one of the most common ways care is shown, more a way of checking in than a literal question about food. Talk to MAA and the Home Made Food section both lean into this, treating food as a form of care, not just a transaction.",
+    "keywords": ["did you eat", "khana kha lo", "food is love", "why does maa ask about food"],
+    "source": "research: food-as-love-language, South Asian family culture"
+  },
+  {
+    "id": "food-winter-comfort",
+    "title": "Comfort food examples for a bad day",
+    "answer": "For someone feeling low, tired, or unwell, warm comfort dishes like daal chawal, chicken soup style shorba, or khichdi are commonly turned to as gentle, easy-to-digest home cooked meals, similar to how these dishes are used in South Asian households.",
+    "keywords": ["comfort food", "sick food", "shorba", "khichdi", "daal chawal", "feeling unwell food"],
+    "source": "research: South Asian comfort food traditions"
+  }
+]

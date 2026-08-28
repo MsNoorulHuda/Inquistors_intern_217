@@ -1,0 +1,72 @@
+[
+  {
+    "id": "travel-overview",
+    "title": "Travel Assistance service",
+    "answer": "The Travel Assistance section helps users plan trips and access travel related information, with three main options: Plan Trip, Travel Tips, and Emergency.",
+    "keywords": ["travel", "trip", "travel assistance", "safar"],
+    "source": "travel.txt"
+  },
+  {
+    "id": "trip-planning",
+    "title": "How trip planning works",
+    "answer": "In Plan Trip, users enter a starting city, a destination, and a date, and after entering this information they can search for travel options.",
+    "keywords": ["plan trip", "trip planning", "starting city", "destination", "travel date"],
+    "source": "travel.txt"
+  },
+  {
+    "id": "popular-destinations",
+    "title": "Popular destinations shown on MAA",
+    "answer": "The Travel Assistance interface displays popular destinations such as Karachi, Mianwali, Raheem Yar Khan, Kashmir, Muzaffarabad, and Lyari.",
+    "keywords": ["popular destinations", "karachi", "mianwali", "raheem yar khan", "kashmir", "muzaffarabad", "lyari"],
+    "source": "travel.txt"
+  },
+  {
+    "id": "travel-tips",
+    "title": "Travel Tips option",
+    "answer": "Travel Tips is one of the three main options inside Travel Assistance, alongside Plan Trip and Emergency, meant to give users general guidance for their trips.",
+    "keywords": ["travel tips", "trip advice", "travel guidance"],
+    "source": "travel.txt"
+  },
+  {
+    "id": "travel-emergency",
+    "title": "Emergency travel support",
+    "answer": "MAA provides emergency travel support for urgent situations, with options like Book Emergency Travel and Talk to MAA Now, so a user can quickly get help while traveling.",
+    "keywords": ["emergency travel", "urgent travel", "travel emergency", "book emergency travel"],
+    "source": "travel.txt"
+  },
+  {
+    "id": "travel-emotional-value",
+    "title": "Why Travel Assistance matters emotionally",
+    "answer": "Travel Assistance is designed to give a sense of security. Knowing that help and emergency support are available reduces anxiety while a user is traveling, especially in unfamiliar surroundings.",
+    "keywords": ["travel emotional value", "security while traveling", "why travel matters", "travel anxiety"],
+    "source": "travel.txt"
+  },
+  {
+    "id": "travel-module-breakdown",
+    "title": "Travel Assistance module structure",
+    "answer": "The Travel Assistance module covers trip planning, destination search, travel tips, emergency travel support, and emergency contacts.",
+    "keywords": ["travel module", "travel module structure", "module 5"],
+    "source": "travel.txt"
+  },
+  {
+    "id": "travel-safety-general-tips",
+    "title": "General safety tips for an unfamiliar city",
+    "answer": "Common travel safety advice includes researching your destination and local emergency numbers before you go, staying aware of your surroundings instead of being distracted by your phone, keeping belongings in sight, and preferring licensed taxis or verified ride apps over hailing random vehicles.",
+    "keywords": ["travel safety tips", "safety in new city", "travel precautions", "how to stay safe traveling"],
+    "source": "research: general travel safety guidance"
+  },
+  {
+    "id": "travel-safety-transport",
+    "title": "Safety tips for public transport while traveling",
+    "answer": "General travel safety guidance suggests avoiding public transport during very late or empty hours, staying alert rather than absorbed in your phone while on buses or trains, and keeping a close eye on your belongings in crowded areas.",
+    "keywords": ["public transport safety", "bus safety", "travel at night", "belongings safety"],
+    "source": "research: general travel safety guidance"
+  },
+  {
+    "id": "travel-safety-share-itinerary",
+    "title": "Staying reachable while traveling",
+    "answer": "A commonly recommended travel safety habit is sharing your travel plans or itinerary with a family member or friend before you go, and keeping your phone charged and reachable, so someone knows your general whereabouts in case of an emergency.",
+    "keywords": ["share itinerary", "stay reachable", "tell someone your plans", "travel check in"],
+    "source": "research: general travel safety guidance"
+  }
+]

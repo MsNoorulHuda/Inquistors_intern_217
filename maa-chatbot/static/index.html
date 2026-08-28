@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="MAA information assistant demo" />
+    <title>MAA Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <aside class="sidebar">
+        <div class="brand"><span class="brand-mark">M</span><span>MAA</span></div>
+        <div class="sidebar-copy">
+          <p class="eyebrow">CARE, GUIDANCE, CONNECTION</p>
+          <h1>Help that feels close to home.</h1>
+          <p>Like a mother's gentle guidance, MAA helps you find food, medicine, travel help, and someone to talk to, all from one place.</p>
+        </div>
+        <div class="status"><span class="status-dot"></span><span>Knowledge base online</span></div>
+        <div class="sidebar-foot">MVP DEMO <span>v0.1</span></div>
+      </aside>
+      <section class="chat-panel">
+        <header class="chat-header">
+          <div><p class="eyebrow">MAA / TALK TO MAA</p><h2>What do you need today?</h2></div>
+          <button class="reset-button" id="reset-button" type="button" title="Start a new conversation">New chat <span>↗</span></button>
+        </header>
+        <div class="messages" id="messages" aria-live="polite">
+          <div class="message assistant-message">
+            <div class="avatar">M</div>
+            <div><p class="message-label">MAAPROJECT ASSISTANT</p><p>Welcome, dear friend. I can help you with Home Made Food, Medicine and Health, Travel Assistance, Talk to MAA, your account, or reporting a problem.</p><div class="source-chip">Welcome guide</div></div>
+          </div>
+          <div class="suggestions" id="suggestions">
+            <button type="button" data-question="What is MAA?">What is MAA?</button>
+            <button type="button" data-question="Tell me about home made food">Home Made Food</button>
+            <button type="button" data-question="What emergency numbers are available?">Emergency contacts</button>
+          </div>
+        </div>
+        <form class="composer" id="chat-form">
+          <label class="sr-only" for="message-input">Your question</label>
+          <input id="message-input" name="message" autocomplete="off" placeholder="Ask about food, medicine, travel, or Talk to MAA..." maxlength="2000" />
+          <button type="submit" aria-label="Send message" title="Send message">↑</button>
+        </form>
+        <p class="disclaimer">Demo assistant · Verify important details with official MAA support.</p>
+      </section>
+    </main>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

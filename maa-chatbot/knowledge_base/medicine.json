@@ -1,0 +1,79 @@
+[
+  {
+    "id": "medicine-overview",
+    "title": "Medicine and Health service",
+    "answer": "The Medicine and Health section provides users with access to medicine related services and health support, with three main options: Order, Reminders, and Health Tips.",
+    "keywords": ["medicine", "health", "pharmacy", "dawai", "dawa", "medicine and health"],
+    "source": "medicine.txt"
+  },
+  {
+    "id": "medicine-order-cart",
+    "title": "Ordering medicine on MAA",
+    "answer": "Users can search for medicines in the Medicine and Health section and add them to a cart before ordering, similar to a simple online pharmacy flow.",
+    "keywords": ["order medicine", "medicine cart", "buy medicine", "medicine order"],
+    "source": "medicine.txt"
+  },
+  {
+    "id": "medicine-examples",
+    "title": "Example medicines on MAA",
+    "answer": "Example medicines displayed in the MAA interface include Paracetamol 500mg, Vitamin D3 1000IU, and Cetirizine 10mg.",
+    "keywords": ["paracetamol", "vitamin d3", "cetirizine", "example medicines", "which medicines"],
+    "source": "medicine.txt"
+  },
+  {
+    "id": "medicine-reminders",
+    "title": "Medicine reminders",
+    "answer": "MAA offers a Reminders option in the Medicine and Health section so users can be reminded to take their medicine, similar to how a parent would remind someone to take care of their health.",
+    "keywords": ["medicine reminder", "reminders", "remind me", "reminder feature"],
+    "source": "medicine.txt"
+  },
+  {
+    "id": "medicine-health-tips",
+    "title": "Health tips on MAA",
+    "answer": "The Medicine and Health section includes a Health Tips option, giving users general wellbeing guidance alongside medicine ordering and reminders.",
+    "keywords": ["health tips", "wellness tips", "health advice"],
+    "source": "medicine.txt"
+  },
+  {
+    "id": "medicine-emotional-value",
+    "title": "Why Medicine and Health matters emotionally",
+    "answer": "Medicine and Health is designed to give reassurance and safety. Reminders and health tips replicate the feeling of someone monitoring your wellbeing, reducing the mental burden of remembering health related tasks.",
+    "keywords": ["medicine emotional value", "reassurance", "peace of mind health", "why health matters"],
+    "source": "medicine.txt"
+  },
+  {
+    "id": "medicine-module-breakdown",
+    "title": "Medicine and Health module structure",
+    "answer": "The Medicine and Health module covers medicine search, medicine listing, cart, orders, reminders, and health tips.",
+    "keywords": ["medicine module", "medicine module structure", "module 4"],
+    "source": "medicine.txt"
+  },
+  {
+    "id": "medicine-why-reminders-work",
+    "title": "Why medicine reminders actually help",
+    "answer": "Health research on medication adherence shows that simple reminders, whether a text message or an app notification, measurably improve how consistently people take their medicine on time, especially for daily or long-term medication.",
+    "keywords": ["why reminders help", "medication adherence", "reminders effective", "missing doses"],
+    "source": "research: medication adherence and reminder studies"
+  },
+  {
+    "id": "medicine-hydration-tip",
+    "title": "General hydration health tip",
+    "answer": "A commonly recommended health habit is drinking a glass of water first thing in the morning and staying hydrated through the day, since mild dehydration is linked to low mood, fatigue, and difficulty concentrating.",
+    "keywords": ["hydration", "drink water", "water tip", "dehydration"],
+    "source": "research: general hydration health guidance"
+  },
+  {
+    "id": "medicine-sleep-tip",
+    "title": "General sleep health tip",
+    "answer": "Health guidance generally recommends seven to nine hours of sleep a night for adults, with a consistent bedtime routine, since poor sleep is linked to lower mood, weaker focus, and reduced immunity.",
+    "keywords": ["sleep tip", "sleep hours", "bedtime routine", "how much sleep"],
+    "source": "research: general sleep health guidance"
+  },
+  {
+    "id": "medicine-screen-time-tip",
+    "title": "General phone and screen-time health tip",
+    "answer": "A commonly suggested wellbeing habit is taking regular breaks from the phone or screen, especially before bed and during a headache or eye strain, since extended screen time is often linked with tiredness, eye strain, and disrupted sleep.",
+    "keywords": ["screen time", "phone break", "too much phone", "eye strain"],
+    "source": "research: general digital wellbeing guidance"
+  }
+]

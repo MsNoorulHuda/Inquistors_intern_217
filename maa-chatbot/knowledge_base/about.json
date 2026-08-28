@@ -1,0 +1,58 @@
+[
+  {
+    "id": "about-maa",
+    "title": "What is MAA?",
+    "answer": "MAA is a digital companion web platform that brings everyday support into one place. It combines home made food, medicine and health assistance, travel support, and an AI companion called Talk to MAA.",
+    "keywords": ["what is maa", "maa project", "about maa", "maa platform", "digital companion", "maa kya hai", "maa kia hai"],
+    "source": "about.txt"
+  },
+  {
+    "id": "name-meaning",
+    "title": "Why is it called MAA?",
+    "answer": "In Urdu and Hindi, Maa means mother, the person most associated with unconditional care and looking after someone without being asked. The platform borrows this emotional meaning and turns it into a digital experience, so every service feels like an act of care, not just a transaction.",
+    "keywords": ["name meaning", "why called maa", "maa means mother", "meaning of maa"],
+    "source": "about.txt"
+  },
+  {
+    "id": "what-maa-truly-is",
+    "title": "What MAA truly is beyond the surface",
+    "answer": "On the surface MAA looks like a bundle of services: food, medicine, travel and an AI chat. But its real identity is built around one idea, that everyday life is easier when someone is genuinely looking out for you. Every service is framed as an act of care rather than a plain transaction.",
+    "keywords": ["real identity", "what maa truly is", "core idea", "beyond surface"],
+    "source": "about.txt"
+  },
+  {
+    "id": "emotional-connection-strategy",
+    "title": "How MAA builds emotional connection",
+    "answer": "MAA builds emotional connection through its naming and identity, a conversational and caring tone in the AI Companion prompts, combining practical and emotional needs in one platform, a soft and friendly visual identity, and testimonials in the Loved by Many section.",
+    "keywords": ["emotional connection", "how does maa connect emotionally", "trust building", "branding strategy"],
+    "source": "about.txt"
+  },
+  {
+    "id": "maa-purpose",
+    "title": "Purpose of MAA",
+    "answer": "The purpose of MAA is to give users a simple and supportive digital platform where they can access essential everyday services and assistance from one website, instead of using many separate apps.",
+    "keywords": ["purpose", "why maa", "goal", "mission", "objective"],
+    "source": "about.txt"
+  },
+  {
+    "id": "maa-target-users",
+    "title": "Who is MAA for?",
+    "answer": "MAA is designed for students, working professionals, senior citizens, people living away from home, travelers, and anyone who wants an AI based companion along with everyday services.",
+    "keywords": ["target users", "who can use", "audience", "students", "travelers", "senior citizens"],
+    "source": "about.txt"
+  },
+  {
+    "id": "core-strategy",
+    "title": "MAA's underlying strategy",
+    "answer": "MAA is not selling four separate services. It is selling the feeling of being cared for, and Home Made Food, Medicine and Health, Travel Assistance, and Talk to MAA are simply the ways that feeling is delivered to the user.",
+    "keywords": ["strategy", "business idea", "what makes maa different", "core concept"],
+    "source": "about.txt"
+  },
+  {
+    "id": "why-emotional-design-matters",
+    "title": "Why MAA's emotional design matters",
+    "answer": "Most everyday service apps compete only on speed, price or convenience. MAA instead builds an emotional identity around care and comfort, aiming for loyalty that goes beyond functional satisfaction, so users return because MAA makes them feel supported, not only because it is convenient.",
+    "keywords": ["why emotional design", "loyalty", "user retention", "brand difference"],
+    "source": "about.txt"
+  }
+]
